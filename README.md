@@ -1,6 +1,6 @@
 ## hostname
 
-
+[![Build Status](https://travis-ci.org/cfrein/ansible-hostname.svg?branch=master)](https://travis-ci.org/cfrein/ansible-hostname)
 
 Set or update the hostname in Debian-like systems.
 
